@@ -5,6 +5,12 @@ This repo consists of the Coursera Specialization: Coding for Everyone: C and C+
 The specialization consists of four courses:
  
  (1) C for Everyone: Programming Fundamentals
+ 
+ 
  (2) C for Everyone: Structured Programming
+ 
+ 
  (3) C++ for C Programmers, Part A
+ 
+ 
  (4) C++ for C Programmers, Part B
