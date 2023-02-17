@@ -26,7 +26,8 @@ int main(void)
     //Decalarations
     FILE *myfile;
     const int SIZE = 1000;
-	int i, j, r = 50, col = 20, numberArray[1000];
+	int i;
+    int numberArray[1000];
     
 
     //Open and read the txt file
