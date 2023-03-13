@@ -8,6 +8,6 @@ The specialization consists of four courses, including
 
    2. [C for Everyone: Structured Programming](https://www.coursera.org/programs/national-university-of-singapore-on-coursera-bm9c5?authProvider=nus&currentTab=MY_COURSES&productId=B3r12dpIEemxgxKi9b-h7g&productType=course&showMiniModal=true), 
 
-[C++ for C Programmers, Part A](https://www.coursera.org/programs/national-university-of-singapore-on-coursera-bm9c5?authProvider=nus&currentTab=MY_COURSES&productId=M9dntkEoEeWZtA4u62x6lQ&productType=course&showMiniModal=true), 
+   3. [C++ for C Programmers, Part A](https://www.coursera.org/programs/national-university-of-singapore-on-coursera-bm9c5?authProvider=nus&currentTab=MY_COURSES&productId=M9dntkEoEeWZtA4u62x6lQ&productType=course&showMiniModal=true), 
 
-[C++ for C Programmers, Part B](https://www.coursera.org/programs/national-university-of-singapore-on-coursera-bm9c5?authProvider=nus&currentTab=MY_COURSES&productId=kaEEZo2KEeWFxA4DZNEJOQ&productType=course&showMiniModal=true).
+   4. [C++ for C Programmers, Part B](https://www.coursera.org/programs/national-university-of-singapore-on-coursera-bm9c5?authProvider=nus&currentTab=MY_COURSES&productId=kaEEZo2KEeWFxA4DZNEJOQ&productType=course&showMiniModal=true).
